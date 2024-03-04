@@ -1,0 +1,18 @@
+INDEX VERSION 1.131+C:\Users\enzoa\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1699211392.index
+1883546514.index
+2240938398.index
+1827775659.index
+650822028.index
+279868512.index
+3457326850.index
+3749980448.index
+4069863688.index
+3953955768.index
+557673745.index
+469144637.index
+2318450946.index
+2197800327.index
+2464880308.index
+4126733585.index

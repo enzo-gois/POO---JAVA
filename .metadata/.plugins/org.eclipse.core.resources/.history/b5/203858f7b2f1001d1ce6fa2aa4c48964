@@ -1,0 +1,31 @@
+package Questão5;
+
+import java.util.Scanner;
+
+public class Teste {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		
+
+		while(true) {
+			System.out.println("1. Cadastrar conta Corrente ");
+			System.out.println("2. Cadastrar Poupanca ");
+			System.out.println("3 .Atualizar conta corrente");
+			System.out.println("4. Atualizar poupanca");
+			System.out.println("5. Saque conta corrente");
+			System.out.println("6. Saque poupanca");
+			System.out.println("7. Verificar saldo da conta corrente");
+			System.out.println("8. Verificar saldo da poupança");
+			System.out.println("0. Sair");
+			int opcao = sc.nextInt();
+			
+			if(opcao ==1) {
+				
+			}
+			
+		}
+		
+	}
+
+}
